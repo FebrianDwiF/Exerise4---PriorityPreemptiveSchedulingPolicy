@@ -89,3 +89,9 @@ stateDiagram-v2
 - Program menggunakan HSI (High Speed Internal) clock
 - Tidak menggunakan PLL untuk simplisitas
 - Menggunakan HAL library untuk abstraksi hardware
+
+
+
+
+https://github.com/user-attachments/assets/bf57447d-98f3-44c9-9bbd-ed13157075ad
+
